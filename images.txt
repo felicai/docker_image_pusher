@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 mongodb/mongodb-enterprise-server:7.0.5-ubi9
 mysql:5.7
+flink:java8
