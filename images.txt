@@ -4,3 +4,4 @@ python:alpine3.19
 mongodb/mongodb-enterprise-server:7.0.5-ubi9
 mysql:5.7
 flink:java8
+flink:1.18.1-scala_2.12-java8
