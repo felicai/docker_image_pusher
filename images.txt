@@ -1,3 +1,2 @@
 wurstmeister/zookeeper:3.4.6
 wurstmeister/kafka:2.13-2.8.1
-apache/flink-ops-playground:1-FLINK-1.16-scala_2.12
